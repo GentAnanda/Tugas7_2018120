@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Emmily Sisilia/SEMESTER 5/MOBILE PROGRAMMING/PRAKTIKUM/Bab6/app/src/main/res/drawable-v24/ic_baseline_arrow_back_24.xml" value="0.171" />
+        <entry key="..\:/Emmily Sisilia/SEMESTER 5/MOBILE PROGRAMMING/PRAKTIKUM/Bab6/app/src/main/res/drawable-v24/ic_baseline_favorite_border_24.xml" value="0.171" />
+        <entry key="..\:/Emmily Sisilia/SEMESTER 5/MOBILE PROGRAMMING/PRAKTIKUM/Bab6/app/src/main/res/drawable/ic_baseline_filter_vintage_24.xml" value="0.171" />
+        <entry key="..\:/Emmily Sisilia/SEMESTER 5/MOBILE PROGRAMMING/PRAKTIKUM/Bab6/app/src/main/res/layout/activity_buah_lokal.xml" value="0.22826086956521738" />
+        <entry key="..\:/Emmily Sisilia/SEMESTER 5/MOBILE PROGRAMMING/PRAKTIKUM/Bab6/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Emmily Sisilia/SEMESTER 5/MOBILE PROGRAMMING/PRAKTIKUM/Bab6/app/src/main/res/layout/item_buahlokal.xml" value="0.16197916666666667" />
+        <entry key="..\:/Emmily Sisilia/SEMESTER 5/MOBILE PROGRAMMING/PRAKTIKUM/Bab6/app/src/main/res/layout/nav_header.xml" value="0.22826086956521738" />
+        <entry key="..\:/Emmily Sisilia/SEMESTER 5/MOBILE PROGRAMMING/PRAKTIKUM/Bab6/app/src/main/res/layout/profile.xml" value="0.22826086956521738" />
+        <entry key="..\:/Emmily Sisilia/SEMESTER 5/MOBILE PROGRAMMING/PRAKTIKUM/Bab6/app/src/main/res/menu/draw_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
